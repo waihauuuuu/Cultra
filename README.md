@@ -14,8 +14,8 @@ In this project, I involved in UI/UX design.
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white)
-![[Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/design/QL9aq3tCZOSyLQjxdbNWB5/CULTRA?node-id=0-1&t=e7ZaWIl0HybEnC3x-1) <-- Click Me
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/design/QL9aq3tCZOSyLQjxdbNWB5/CULTRA?node-id=0-1&t=e7ZaWIl0HybEnC3x-1) <-- Click Me
 
 ## 🤝 Collaborator
 1. [@DariusShin](https://github.com/DariusShin)
-2. [@yihong8803](hhtps://github.com/yihong8803)
+2. [@yihong8803](https://github.com/yihong8803)
